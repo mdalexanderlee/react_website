@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+#backgroundVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
+#desc {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  color: rgba(255,255,255,100);
+}
+
+#desc_text {
+  font-size: 1.5vw
+}
+
+#links {
+  position: relative;
+  margin-left: -0.9em;
+}
+
+#desc_header {
+  margin-bottom: 0.3em;
+}
+
+body {
+  background-color: #9DE1F6;
+}
+
+#backgroundImage {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  max-height: 100%;
+  width: auto;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
