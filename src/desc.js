@@ -21,7 +21,13 @@ class desc extends Component {
             <br/>
             <Typist.Delay ms={2500} />
             <span>
-              I am a Junior @ UIUC studying Computer Engineering with a minor in Statistics. <Typist.Delay ms={1000} />I will be at Jump Trading this summer writing highly performant C++ code for their algorithmic trading systems. <Typist.Delay ms={1000} />I was previously at JHU-APL, CME Group, CapitalOne, and Leidos. <Typist.Delay ms={1000} />Check out my social media and portfolio!
+              I am a Junior @ UIUC studying Computer Engineering with a minor in Statistics.&nbsp;
+              <Typist.Delay ms={1000} />
+              I will be at Jump Trading this summer writing highly performant C++ code for their algorithmic trading systems.&nbsp;
+              <Typist.Delay ms={1000} />
+              Previously, I've interned at JHU-APL, CME Group, CapitalOne, and Leidos.&nbsp;
+              <Typist.Delay ms={1000} />
+              Check out my social media and portfolio! 
             </span>
           </Typist>
         </div>
