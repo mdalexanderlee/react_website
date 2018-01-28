@@ -12,7 +12,7 @@
 }
 
 #desc_text {
-  font-size: 1.5vw
+  font-size: 1.5vw;
 }
 
 #links {
@@ -21,6 +21,7 @@
 }
 
 #desc_header {
+  display: inline-block;
   margin-bottom: 0.1em;
 }
 
