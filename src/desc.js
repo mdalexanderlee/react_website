@@ -18,7 +18,7 @@ class desc extends Component {
     this.state = {
       show_links: false,
     };
-    this.onTypingIsDone = this.onTypingIsDone.bind(this)
+    this.onTypingIsDone = this.onTypingIsDone.bind(this);
   }
 
   onTypingIsDone(){
