@@ -35,11 +35,9 @@ class desc extends Component {
             <br/>
             <Typist.Delay ms={2500} />
             <span>
-              I am a Junior @ UIUC studying Computer Engineering with a minor in Statistics.&nbsp;
+              I'm a Senior @ UIUC studying Computer Engineering.&nbsp;
               <Typist.Delay ms={1000} />
-              I will be at Jump Trading this summer writing highly performant C++ code for their algorithmic trading systems.&nbsp;
-              <Typist.Delay ms={1000} />
-              Previously, I've interned at JHU-APL, CME Group, CapitalOne, and Leidos.&nbsp;
+              In June 2019, I'll be joining Jump Trading as a Software Engineer writing highly performant code for their algorithmic trading systems.&nbsp;
               <Typist.Delay ms={1000} />
               Check out my social media and portfolio!
               <Typist.Delay ms={1000} /> 

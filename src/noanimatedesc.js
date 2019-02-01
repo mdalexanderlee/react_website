@@ -9,9 +9,8 @@ class desc extends Component {
             <h1 id="desc_header">Hey, I'm Alex!</h1>
             <br/>
             <span>
-              I am a Junior @ UIUC studying Computer Engineering with a minor in Statistics.&nbsp;
-              I will be at Jump Trading this summer writing highly performant C++ code for their algorithmic trading systems.&nbsp;
-              Previously, I've interned at JHU-APL, CME Group, CapitalOne, and Leidos.&nbsp;
+              I'm a Senior @ UIUC studying Computer Engineering.&nbsp;
+              In June 2019, I'll be joining Jump Trading as a Software Engineer writing highly performant code for their algorithmic trading systems.&nbsp;
               Check out my social media and portfolio!
             </span>
         </div>
